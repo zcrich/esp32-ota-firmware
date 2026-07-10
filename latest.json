@@ -2,7 +2,7 @@
   "project": "esp32s3-github-ota-demo",
   "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.1.bin",
-  "sha256": "cabaf8ce033fabfc8c22f0b96779056ef4b5996229c4a78ac6c477a18784f0e5",
+  "sha256": "dabaf8ce033fabfc8c22f0b96779056ef4b5996229c4a78ac6c477a18784f0e5",
   "size": 1040608,
   "hardware": "esp32s3-devkitc-1",
   "min_hw_rev": 1,
