@@ -1,10 +1,10 @@
 {
   "project": "esp32s3-github-ota-demo",
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.1.bin",
-  "sha256": "cabaf8ce033fabfc8c22f0b96779056ef4b5996229c4a78ac6c477a18784f0e5",
-  "size": 1040608,
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.2-bad.bin",
+  "sha256": "cd86259fb2f4194823cb856820a81454d4318f32720cd095001294f5dd206391",
+  "size": 232288,
   "hardware": "esp32s3-devkitc-1",
   "min_hw_rev": 1,
-  "notes": "milestone 11 automatic-scheduler-triggered update test (real, previously-verified v1.0.1 binary)"
+  "notes": "baseline manifest matching device version, reset after milestone 11 testing"
 }
