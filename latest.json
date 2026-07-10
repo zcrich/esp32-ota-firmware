@@ -1,6 +1,6 @@
 {
   "project": "esp32s3-github-ota-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.0.bin",
   "sha256": "0000000000000000000000000000000000000000000000000000000000000",
   "size": 0,
