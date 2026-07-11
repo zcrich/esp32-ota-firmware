@@ -1,11 +1,11 @@
 {
   "project": "esp32s3-github-ota-demo",
-  "version": "1.0.7",
+  "version": "1.0.6",
   "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.6.bin",
   "sha256": "ca76dd951c016719afc8e88ae783ff91cc4eb5d4d0ec9388b9f918321a3fde57",
-  "signature": "MEUCIAhR7sPJ/McfbqWFCjyIhRI5bkV3BakGKos1OnlOiFhdAiEA++owJ9dy26vr5SE0NkDvfqIUdtAlFM4otRc9+0LbSCORRUPTED=",
+  "signature": "MEUCIAhR7sPJ/McfbqWFCjyIhRI5bkV3BakGKos1OnlOiFhdAiEA++owJ9dy26vr5SE0NkDvfqIUdtAlFM4otRc9+0LbSbw=",
   "size": 1332592,
   "hardware": "esp32s3-devkitc-1",
   "min_hw_rev": 1,
-  "notes": "TEST: intentionally corrupted signature for milestone 14 rejection-path verification. Binary/sha256 still point at the real v1.0.6 build."
+  "notes": "Automated release build from tag v1.0.6, commit 1d5f49e"
 }
