@@ -1,11 +1,11 @@
 {
   "project": "esp32s3-github-ota-demo",
-  "version": "1.0.7",
-  "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.7.bin",
-  "sha256": "984b8265b38bd78886ecf0768928b941a2ceb2fece64af0452161e93113adab2",
-  "signature": "MEUCIByQV6O1hQ93jRX1/r8lTiwJ2FK2yLfhKJBLrmzTQYE7AiEAouDK5YcLqyRgF5rnC+kY4BKbplH2biXKGm3EE7Bz+xQ=",
-  "size": 1336240,
+  "version": "1.0.8",
+  "url": "https://raw.githubusercontent.com/zcrich/esp32-ota-firmware/main/firmware-v1.0.8.bin",
+  "sha256": "c71580e7e9830533095e85905001413de7fea22f856e0a089511427f68e9f67b",
+  "signature": "MEYCIQDeXCSLHgVbFzfB8d8VakAi0g8xorv2wYulnAYN56bzcgIhAP87WCX42L9LHu8sSZ8c8klvGuQSbS8nieJ46X3mVjYG",
+  "size": 1336288,
   "hardware": "esp32s3-devkitc-1",
   "min_hw_rev": 1,
-  "notes": "Automated release build from tag v1.0.7, commit 505860f"
+  "notes": "Automated release build from tag v1.0.8, commit 49e4008"
 }
